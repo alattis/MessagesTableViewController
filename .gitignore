@@ -1,3 +1,10 @@
+
+.gitignore
+
 .DS_Store
-/build/
-MessagesDemo.xcodeproj/project.xcworkspace/xcuserdata/jesse.xcuserdatad/UserInterfaceState.xcuserstate
+
+MessagesDemo.xcodeproj/project.xcworkspace/xcuserdata/alattis.xcuserdatad/UserInterfaceState.xcuserstate
+
+MessagesDemo.xcodeproj/xcuserdata/alattis.xcuserdatad/xcschemes/MessagesDemo.xcscheme
+
+MessagesDemo.xcodeproj/xcuserdata/alattis.xcuserdatad/xcschemes/xcschememanagement.plist
